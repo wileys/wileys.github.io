@@ -28,8 +28,9 @@ a {
 
 .floatedtext {
 	float:right;
-	font-size:15px;
+	font-size:16px;
 	width:700px;
+	color:#6A648A;
 
 }
 
